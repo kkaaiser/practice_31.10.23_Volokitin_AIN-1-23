@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62f7ebf6-fd1b-4e60-b567-f6dd7ea733de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/dishes/Borscht.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/dishes/Borscht_Ut1id7H.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/dishes/Pelmeni.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/menu.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2XXAPJTqi8OnDOXj261jgrOtf9s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62f7ebf6-fd1b-4e60-b567-f6dd7ea733de" name="Changes" comment="" />
+      <created>1698765025958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698765025958</updated>
+    </task>
+    <servers />
+  </component>
+</project>

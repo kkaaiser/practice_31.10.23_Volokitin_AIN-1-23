@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Menu</title>
+</head>
+<body>
+<ul>
+    {% for i in dishes %}
+        <h2>{{i.dish_name}}</h2>
+        <img src="{{i.dish_image.url}}" width="400" alt="">
+        <p><strong>Description: {{i.dish_description}}</strong></p>
+        <p><strong>Ingredients: {{i.dish_ingredients}}</strong></p>
+    {% endfor %}
+</ul>
+</body>
+</html>
